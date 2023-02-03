@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valerkaa
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning Fullstack Dev
+- 🌱 I’m currently learning Frontend Dev
 - 💞️ I’m looking to collaborate on Apple🍏 :) 
 - 📫 How to reach me mr.valetnikov.74@gmail.com
 
