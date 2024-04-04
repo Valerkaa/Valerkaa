@@ -1,5 +1,23 @@
 <div align="center">
- 
+
+# Welcome to my GitHub!
+I'm glad you're here!
+
+# Here you will find:
+
+My personal projects that I'm working on or have completed.
+Code that I'm sharing with the world.
+My thoughts and ideas about programming and software development.
+# I'm always happy to:
+Receive feedback on my work.
+Collaborate on projects.
+Answer your questions.
+
+# Please feel free to:
+Leave a comment on my code.
+Create an issue if you find a bug.
+Send me a message.
+
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
