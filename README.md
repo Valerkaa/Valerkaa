@@ -1,7 +1,3 @@
-<div align="center" margin-bottom="70px">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=40&duration=3000&pause=1000&color=00cc00&background=F1A94F00&center=true&vCenter=true&multiline=true&width=635&height=200&lines=Hi!+I+%27m+Valerii+-+;Frontend+Developer" alt="Typing SVG" /></a>
-</div>
-
 <div align="center">
  
 ### Main skills:
@@ -36,10 +32,10 @@
 
 <h3 align="center">Also use: </h3>
 <p align="center"> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="60" height="30"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="90" height="25"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="40"/> </a> 
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" alt="insomnia" width="60" height="30"/> </a> 
+<img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" alt="insomnia" width="90" height="25"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
