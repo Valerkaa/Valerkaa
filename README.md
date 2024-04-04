@@ -36,10 +36,10 @@
 
 <h3 align="center">Also use: </h3>
 <p align="center"> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="80" height="40"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="60" height="30"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="40"/> </a> 
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" alt="insomnia" width="80" height="40"/> </a> 
+<img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" alt="insomnia" width="60" height="30"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
