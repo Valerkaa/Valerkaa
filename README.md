@@ -1,19 +1,19 @@
 <div align="center">
 
-## Welcome to my GitHub!
+### Welcome to my GitHub!
 - I'm glad you're here!
 
-## Here you will find:
+### Here you will find:
 - My personal projects that I'm working on or have completed.
 - Code that I'm sharing with the world.
 - My thoughts and ideas about programming and software development.
 
-## I'm always happy to:
+### I'm always happy to:
 - Receive feedback on my work.
 - Collaborate on projects.
 - Answer your questions.
 
-## Please feel free to:
+### Please feel free to:
 - Leave a comment on my code.
 - Create an issue if you find a bug.
 - Send me a message.
