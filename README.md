@@ -17,7 +17,10 @@
 - Leave a comment on my code.
 - Create an issue if you find a bug.
 - Send me a message.
+  
 <div align="center">
+
+ 
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
